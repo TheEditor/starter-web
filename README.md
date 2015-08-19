@@ -16,3 +16,6 @@ This is a simple web project.
 
 ## How to Contribute
 
+### Copyright
+
+2015 Git.Training
