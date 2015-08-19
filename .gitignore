@@ -2,3 +2,8 @@
 
 *.log
 log/
+*.orig
+*.BASE*
+*.LOCAL*
+*.REMOTE*
+*.BACKUP*
